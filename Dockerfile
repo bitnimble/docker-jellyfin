@@ -1,4 +1,4 @@
-FROM ghcr.io/bitnimble/vulkan:1.2.203-cuda-11.4.2-beta.0-ubuntu20.04
+FROM ghcr.io/bitnimble/vulkan:1.3-470-cuda-11.4.2-ubuntu20.04
 
 # set version label
 ARG BUILD_DATE
